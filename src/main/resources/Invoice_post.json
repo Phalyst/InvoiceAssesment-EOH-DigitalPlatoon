@@ -1,0 +1,22 @@
+{
+	"client": "Test",
+	"vatRate" : 15,
+	 "invoiceDate"  : "2018-08-12T11:50:16.189+0000",
+	 "lineItem" :[
+	 	{
+	 	 "quantity" : 5,
+     	 "description" : "Mayonaise",
+		 "unitPrice": 25,
+         "invoiceDate"  : "2018-08-12T11:50:16.189+0000"
+	    },
+	    	 	{
+	 	 "quantity" : 2,
+     	 "description" : "Jacobs",
+		 "unitPrice": 50,
+         "invoiceDate"  : "2018-08-12T11:50:16.189+0000"
+	    }
+	 ]
+
+
+  
+}
